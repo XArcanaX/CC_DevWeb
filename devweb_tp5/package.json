@@ -1,0 +1,19 @@
+{
+  "name": "devweb-tp5",
+  "version": "1.0.0",
+  "main": "server-http.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XArcanaX/DevWeb.git"
+  },
+  "author": "Waren Deramane <deramane.waren01@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XArcanaX/DevWeb/issues"
+  },
+  "homepage": "https://github.com/XArcanaX/DevWeb#readme",
+  "description": ""
+}
